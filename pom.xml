@@ -5,9 +5,9 @@
 
   <groupId>cs151</groupId>
   <artifactId>students-knowledgebase</artifactId>
-  <version>0.5</version>
+  <version>0.9</version>
   <name>StudentsKnowledgebase</name>
-  <description>CS151 Term Project 0.5 — Students' Knowledgebase</description>
+  <description>CS151 Term Project 0.9 — Students' Knowledgebase</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

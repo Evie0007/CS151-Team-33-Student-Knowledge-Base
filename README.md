@@ -48,7 +48,7 @@ resources/
 
 ## 👩‍💻 Team members
 Sukirth Chanda  
-Evie Ho  
+Evie Ho (Team Lead)
 Tanishq Tyagi  
 Girum Yaye  
 
